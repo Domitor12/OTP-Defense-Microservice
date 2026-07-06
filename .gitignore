@@ -1,0 +1,64 @@
+# ============================================
+# Environment Variables (CRITICAL FOR SECURITY)
+# ============================================
+.env
+.env.local
+.env.*.local
+
+# ============================================
+# Python & Virtual Environments
+# ============================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+venv/
+ENV/
+env/
+.venv
+
+# ============================================
+# IDEs & Editors
+# ============================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ============================================
+# Database, Logs & Testing
+# ============================================
+*.db
+*.sqlite
+*.sqlite3
+*.log
+logs/
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.mypy_cache/
+.ruff_cache/
+
+# ============================================
+# OS generated files
+# ============================================
+.DS_Store
+Thumbs.db
