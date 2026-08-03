@@ -468,12 +468,7 @@ Stay connected and get the latest updates!
 
 ***
 
-### LICENSE
-
-Create a file named `LICENSE` in the root of your repository and paste this exactly:
-
-```text
-MIT License
+###MIT License
 
 Copyright (c) 2026 VINCENT ONYECHEREM IKENNA
 
