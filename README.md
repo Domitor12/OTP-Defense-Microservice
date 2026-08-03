@@ -468,7 +468,8 @@ Stay connected and get the latest updates!
 
 ***
 
-###MIT License
+```text
+MIT License
 
 Copyright (c) 2026 VINCENT ONYECHEREM IKENNA
 
